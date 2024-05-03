@@ -4,13 +4,21 @@ This repository contains the source code for a diabetes predictor mobile applica
 
 ## Overview
 
-The Diabetes Predictor App utilizes a machine learning model trained on a diabetes dataset to predict the likelihood of an individual having diabetes based on certain input parameters. The model is implemented using Support Vector Machine (SVM) algorithm.
+The Diabetes Predictor App utilizes a machine learning model trained on a diabetes dataset to predict the likelihood of an individual having diabetes based on certain input parameters. The model is implemented using the Support Vector Machine (SVM) algorithm.
 
 ## Features
 
 - Input interface to provide user information (e.g., glucose level, blood pressure, etc.).
 - Integration with the SVM model for diabetes prediction.
 - Display of prediction results to the user.
+
+## Screenshots
+
+### Prediction for Non-Diabetic Individual
+![Prediction for Non-Diabetic Individual](/Output_Images/Non_Diabetic.jpeg)
+
+### Prediction for Diabetic Individual
+![Prediction for Diabetic Individual](URL_TO_IMAGE_DIABETIC)
 
 ## Getting Started
 
@@ -41,16 +49,6 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 5. Push to the branch (`git push origin feature/your-feature-name`).
 6. Create a new Pull Request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Dataset Source: [Link to dataset source]
-- MIT App Inventor: [Link to MIT App Inventor website]
-- SVM Implementation: [Link to SVM algorithm documentation]
-
 ## Contact
 
-For any inquiries or support, please contact [your email address].
+For any inquiries or support, please contact work.amabr09@gmail.com.
