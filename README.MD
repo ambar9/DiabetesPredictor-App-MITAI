@@ -15,10 +15,10 @@ The Diabetes Predictor App utilizes a machine learning model trained on a diabet
 ## Screenshots
 
 ### Prediction for Non-Diabetic Individual
-![Prediction for Non-Diabetic Individual](/Output_Images/Non_Diabetic.jpeg)
+![Prediction for Non-Diabetic Individual](Output_Images/Non_Diabetic.png)
 
 ### Prediction for Diabetic Individual
-![Prediction for Diabetic Individual](URL_TO_IMAGE_DIABETIC)
+![Prediction for Diabetic Individual](Output_Images/Diabetic.png)
 
 ## Getting Started
 
